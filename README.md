@@ -30,3 +30,42 @@ Use arrow functions
 Use spread and rest operators
 ```
 
+## Day 2
+
+https://codesandbox.io/s/day-two-blueprint-9oocu
+
+```
+Complete the "ArrayUtilities" class with the following functions:
+
+addZeros: Add zeros to all the numbers. Return an array of numbers.
+moreThanFifty: Remove the numbers that are not more than 50. Return an array of numbers.
+removeFirst: Remove the first element of the array. Return an array of numbers.
+sumAll: Sum all the elements of the array. Return ONE number.
+divide: Take a number and divide it into an array.
+
+
+This is the desired output.
+
+
+
+
+
+
+
+조건:
+
+The output of the program must be EXACTLY like on the image above.
+Place your functions INSIDE of 'ArrayUtilities'
+DO NOT edit ANYTHING OUTSIDE of 'ArrayUtilities'.
+Don't give up!
+
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+
+
+
+힌트:
+
+Use arrow functions
+Not everything is on the videos, research!
+```
