@@ -46,12 +46,6 @@ divide: Take a number and divide it into an array.
 
 This is the desired output.
 
-
-
-
-
-
-
 조건:
 
 The output of the program must be EXACTLY like on the image above.
@@ -68,4 +62,19 @@ IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 
 Use arrow functions
 Not everything is on the videos, research!
+```
+
+## Day 3
+
+https://codesandbox.io/s/day-three-blueprint-px5zv
+
+```
+조건:
+
+DO NOT create or delete ANY file.
+DO NOT use <a></a>
+
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+
 ```
