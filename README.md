@@ -78,3 +78,18 @@ DO NOT use <a></a>
 IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 
 ```
+
+## Day 4
+
+https://codesandbox.io/s/day-four-boilerplate-3zsy9
+
+```
+조건:
+
+Use 'styled-components' , 'styled-reset' and 'createGlobalStyle'
+The header must be location aware and the links should reflect that.
+DO NOT use ANY .css file or 'className' attribute.
+
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+```
