@@ -93,3 +93,37 @@ DO NOT use ANY .css file or 'className' attribute.
 
 IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 ```
+
+## Day 5 ~ 6
+
+https://codesandbox.io/s/day-five-blueprint-iimnw
+
+```
+Extend the Coin Explorer to call the following API endpoints on the following pages:
+
+/ (Homepage) https://api.coinpaprika.com/v1/tickers
+/exchanges https://api.coinpaprika.com/v1/exchanges
+/coins https://api.coinpaprika.com/v1/coins
+
+
+Homepage: Show the name of the coin, the symbol and price.
+Exchanges: Show the name of the exchange, description and website link.
+Coins: List the coins and sort them by rank.
+
+
+Global Requirements:
+
+Use Container/Presenter pattern with class components.
+DO NOT use Hooks. I know they are awesome, we will use them later.
+ALL PRESENTERS should use PropTypes.
+Use PropTypes.shape
+Use async/await
+All AJAX requests MUST be made with an AXIOS INSTANCE ('axios.create')
+Containers MUST NEVER call Axios directly, they should call the instance.
+Use a Loader Component.
+
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+
+위의 조건을 수행하지 못하시면, 전체 출석하셔도 나중에 X 결격 처리 되실 수 있으니 참고하세요!
+```
