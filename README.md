@@ -157,3 +157,65 @@ Coin Markets and Coin Exchanges should be ROUTES.
 IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 
 ```
+
+## Day 9 ~ 10
+https://codesandbox.io/s/day-seven-blueprint-iw9fr
+
+```
+You will have to create the following hooks and use them all in one page:
+
+useDeviceOrientation
+useFavicon
+useGeolocation
+useKeyPress
+useLocalStorage
+useMousePosition
+useOnline
+useLockScroll
+
+Here is the desired output:
+
+useDeviceOrientation:
+
+Takes no arguments, returns an object containing "alpha, beta, gamma".
+
+useFavicon:
+
+Takes the initial favicon URL as argument, returns 'setFavicon' that changes the favicon.
+
+useGeolocation:
+
+Take no arguments, returns an object containing 'error, coords: {lat:long}'
+
+useKeyPress
+
+Takes one argument, a key, returns a boolean that becomes 'true' or 'false' if the key is pressed
+
+useLocalStorage
+
+Takes two arguments, the name of the localStorage key, and the initialValue to give to it.
+
+Returns an array where the first item is the current element in localStorage and the second item is a function to update localStorage
+
+useMousePosition:
+
+Takes no arguments, returns the x,y coordinates of the mouse.
+
+useOnline:
+
+Takes no arguments, returns a boolean that changes when the user goes online or offline.
+
+useLockScroll:
+
+Takes no arguments, returns an array with two elements.
+
+The first element notifies 'true' or 'false' if the scroll is locked, the second element is an object containing two functions, one to lock scroll, one to unlock it.
+
+Requirements:
+
+Don't you dare give up! 
+Make a page that uses all the hooks, like the one on the video.
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+
+```
