@@ -219,3 +219,17 @@ Make a page that uses all the hooks, like the one on the video.
 IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 
 ```
+
+## Day 11
+
+https://codesandbox.io/s/day-six-solution-myfok
+
+```
+Take the boilerplate and turn refactor it to use hooks 100%
+
+Requirements:
+Don't use Class Components.
+Use only hooks.
+No Container/Presenter.
+All functionality should remain the same.
+```
