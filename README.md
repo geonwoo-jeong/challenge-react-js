@@ -233,3 +233,27 @@ Use only hooks.
 No Container/Presenter.
 All functionality should remain the same.
 ```
+
+## Day 12
+
+https://codesandbox.io/s/day-seven-blueprint-7n8cn
+```
+Using everything that you know, create a page that calls an API with infinite scrolling.
+It should behave like this:
+
+API Documentation: https://yts.lt/api#list_movies
+
+Clues:
+﻿This is how I would make the API file.
+The URL would end up looking something like this:
+https://yts.lt/api/v2/list_movies.json?page=1&limit=50
+
+Requirements:
+Don't use Class Components.
+Use only hooks.
+When the user reaches the end of the page, request more movies (other page)
+No Container/Presenter.
+All functionality should remain the same.
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+```
