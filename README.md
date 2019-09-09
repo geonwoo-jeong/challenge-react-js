@@ -257,3 +257,24 @@ All functionality should remain the same.
 
 IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
 ```
+
+## Day 13 ~ 15
+
+https://naughty-yalow-fae68f.netlify.com
+
+```
+Requirements:
+
+Finish the whole movie application
+Finish ALL the code challenges.
+
+
+Code Challenges on Detail Page:
+
+Add a link to IMDB of the TV Show/Movie
+Build two tabs to show the Videos, Production Companies, Production Countries of TV Show/Movies
+On TV Shows only, add a tab 'Seasons' to show all the seasons of the show with posters
+
+
+IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌
+```
