@@ -1,5 +1,9 @@
 # challenge-react-js
 
+## Code Review
+
+https://www.youtube.com/watch?v=CaoQg49XmEU&list=PL7jH19IHhOLPTyDo7qXB5KCpmOClNVzYG&index=12&t=0s
+
 ## Day 1
 
 https://codesandbox.io/s/day-one-blueprint-c92k1
